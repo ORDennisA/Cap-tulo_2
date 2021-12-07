@@ -1,3 +1,8 @@
+/*
+Titulo: Ejercicio 4 Unidad2
+Autor: Dennis Axel Ruiz Ochoa
+Descripcion: Suma de vector de enteros largos
+*/
 .data
 var1:	.asciz	"%d\012"
 
